@@ -1,6 +1,5 @@
 import React, { PureComponent } from 'react';
 import {
-	Button,
 	Form,
 	FormGroup,
 	InputGroup,
@@ -23,7 +22,8 @@ export default class Search extends PureComponent {
 
 	render() {
 		return (
-			<div>
+			<header className="App-header">
+				<h1 className="App-title">iSearch</h1>
 				<Form onSubmit={this.onSubmit}>
 					<FormGroup>
 						<InputGroup>
@@ -32,7 +32,7 @@ export default class Search extends PureComponent {
 						</InputGroup>
 					</FormGroup>
 				</Form>
-			</div>
+			</header>
 		);
 	}
 }

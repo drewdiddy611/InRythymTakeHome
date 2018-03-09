@@ -18,15 +18,17 @@
 	font-size: 3.5em;
 }
 
-.App-intro {
-	font-size: large;
+.main {
+	padding-top: 1em;
 }
 
-@keyframes App-logo-spin {
-	from {
-		transform: rotate(0deg);
-	}
-	to {
-		transform: rotate(360deg);
-	}
+.album-card {
+	margin-bottom: 2em;
+}
+
+.attributes {
+	font-size: 75%;
+}
+.attribute-name {
+	text-align: right;
 }

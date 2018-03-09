@@ -1,5 +1,6 @@
 // API URL: https://itunes.apple.com/search?term=${ARTIST_NAME}
-export const SEARCH_API_URL = 'https://itunes.apple.com/search?term=';
+export const SEARCH_API_URL =
+	'https://itunes.apple.com/search?media=music&entity=album&term=';
 export const SEARCH_START = 'SEARCH_START';
 export const SEARCH_SUCCESS = 'SEARCH_SUCCESS';
 export const SEARCH_FAILURE = 'SEARCH_FAILURE';
@@ -41,11 +42,34 @@ export default search => async dispatch => {
 
 	// SEND REQUEST
 	try {
+		// Send the request and extract our data from the response.
 		const response = await fetch(SEARCH_API_URL + search, options);
 
-		// Request success, forward the results to our reducer.
+		// Request success
 		if (response.ok) {
-			dispatch(searchSuccess(await response.json()));
+			const data = await response.json();
+			const results = {
+				resultCount: data.resultCount
+			};
+
+			// Separate exact matches from similar ones.
+			const [exact, similar] = data.results.reduce(
+				(acc, el) => {
+					if (el.artistName === search) {
+						acc[0].push(el);
+					} else {
+						acc[1].push(el);
+					}
+					return acc;
+				},
+				[[], []]
+			);
+
+			results.exact = exact;
+			results.similar = similar;
+
+			// Forward the results to our reudcer.
+			dispatch(searchSuccess(results));
 		}
 	} catch (err) {
 		dispatch(searchFailure(err));
