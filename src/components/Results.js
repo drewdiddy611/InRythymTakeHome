@@ -1,6 +1,7 @@
 import React, { PureComponent } from 'react';
 import { Container, Row, Col } from 'reactstrap';
 import ResultsGrid from './ResultsGrid';
+import ReactLoading from 'react-loading';
 
 const NoResults = () => {
 	return (
@@ -12,10 +13,17 @@ const NoResults = () => {
 	);
 };
 
+const Loading = ({ type, color }) => (
+	<div style={{ width: '40%', margin: 'auto', textAlign: 'center' }}>
+		<ReactLoading type={type} color={color} height="200" width="200" />
+	</div>
+);
+
 export default class Results extends PureComponent {
 	render() {
-		const { resultCount, exact, similar } = this.props;
+		const { isFetching, resultCount, exact, similar } = this.props;
 
+		if (isFetching) return <Loading type="cylon" color="#ccc" />;
 		if (!resultCount) return <NoResults />;
 
 		return (
@@ -27,9 +35,9 @@ export default class Results extends PureComponent {
 					</Col>
 				</Row>
 
-				<ResultsGrid prefix="Exact" items={exact} />
+				<ResultsGrid prefix="Exact" albums={exact} />
 				<hr />
-				<ResultsGrid prefix="Similar" items={similar} />
+				<ResultsGrid prefix="Similar" albums={similar} />
 			</Container>
 		);
 	}

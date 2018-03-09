@@ -8,7 +8,7 @@
 // 6. Checkin or Click Update from the top Menu and save the link
 
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { render } from 'react-dom';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import AppContainer from './containers/AppContainer';
@@ -17,6 +17,8 @@ import { Provider } from 'react-redux';
 import store from './store';
 require('dotenv').config();
 
+// Wrap our app container in a redux provider so it
+// has access to the store.
 const Index = () => {
 	return (
 		<Provider store={store}>
@@ -25,5 +27,5 @@ const Index = () => {
 	);
 };
 
-ReactDOM.render(<Index />, document.getElementById('root'));
+render(<Index />, document.getElementById('root'));
 registerServiceWorker();

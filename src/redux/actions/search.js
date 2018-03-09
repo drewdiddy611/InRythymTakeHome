@@ -5,9 +5,9 @@ export const SEARCH_START = 'SEARCH_START';
 export const SEARCH_SUCCESS = 'SEARCH_SUCCESS';
 export const SEARCH_FAILURE = 'SEARCH_FAILURE';
 
-/*
+/***
  * Action creators for different search "states."
- */
+ ***********************************************************/
 export const searchStart = () => ({
 	type: SEARCH_START
 });
@@ -22,9 +22,9 @@ export const searchFailure = err => ({
 	err
 });
 
-/*
- * Main async actions to be called from UI.
- */
+/***
+ * Main async action to be called from UI.
+ ***********************************************************/
 export default search => async dispatch => {
 	if (!search) {
 		return dispatch(searchFailure({ message: 'No search term provided.' }));

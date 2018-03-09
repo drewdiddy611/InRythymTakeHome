@@ -20,7 +20,23 @@ const AttributeRow = ({ left, right }) => {
 	);
 };
 
-export default ({ prefix, items }) => {
+/***
+ * Presentational component for results grid.
+ * Contains all necessary components for the list of albums
+ * from the iTunes API.
+ *
+ * Relevant properties:
+ * album {
+ *		collectionName,
+ *		collectionId,
+ *		artworkUrl100,
+ *		collectionViewUrl,
+ *		artistViewUrl,
+ *		releaseDate,
+ *		primaryGenreName,
+ * }
+ ***********************************************************/
+export default ({ prefix, albums }) => {
 	return [
 		<Row key={`${prefix}-items-header`}>
 			<Col xs="2">
@@ -28,7 +44,7 @@ export default ({ prefix, items }) => {
 			</Col>
 		</Row>,
 		<Row key={`${prefix}-items-list`}>
-			{items.map(album => {
+			{albums.map(album => {
 				return (
 					<Col
 						key={album.collectionName + album.collectionId}
