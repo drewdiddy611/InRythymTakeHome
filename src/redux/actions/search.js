@@ -25,6 +25,10 @@ export const searchFailure = err => ({
  * Main async actions to be called from UI.
  */
 export default search => async dispatch => {
+	if (!search) {
+		return dispatch(searchFailure({ message: 'No search term provided.' }));
+	}
+
 	// Update the state to searching, can look for isFetching: true
 	// for displaying a progress spinner.
 	dispatch(searchStart());
@@ -37,7 +41,7 @@ export default search => async dispatch => {
 
 	// SEND REQUEST
 	try {
-		const response = await fetch(SEARCH_API_URL, options);
+		const response = await fetch(SEARCH_API_URL + search, options);
 
 		// Request success, forward the results to our reducer.
 		if (response.ok) {

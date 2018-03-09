@@ -9,25 +9,18 @@
 
 import React from 'react';
 import ReactDOM from 'react-dom';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './index.css';
 import AppContainer from './containers/AppContainer';
 import registerServiceWorker from './registerServiceWorker';
-
-//ReactDOM.render(<App />, document.getElementById('root'));
-//registerServiceWorker();
-
-//import AppContainer from "./App/AppContainer";
 import { Provider } from 'react-redux';
-import { BrowserRouter as Router, Route } from 'react-router-dom';
 import store from './store';
 require('dotenv').config();
 
 const Index = () => {
 	return (
 		<Provider store={store}>
-			<Router>
-				<Route path="/" component={AppContainer} />
-			</Router>
+			<AppContainer />
 		</Provider>
 	);
 };
