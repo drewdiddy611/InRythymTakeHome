@@ -3,6 +3,7 @@ import { Container, Row, Col } from 'reactstrap';
 import ResultsGrid from './ResultsGrid';
 import ReactLoading from 'react-loading';
 
+// No results placeholder component.
 const NoResults = () => {
 	return (
 		<Row className="main">
@@ -13,12 +14,18 @@ const NoResults = () => {
 	);
 };
 
+// Loading indicator for fetching data from iTunes.
 const Loading = ({ type, color }) => (
 	<div style={{ width: '40%', margin: 'auto', textAlign: 'center' }}>
 		<ReactLoading type={type} color={color} height="200" width="200" />
 	</div>
 );
 
+/***
+ * Presentational component for searching for albums.
+ * Contains all necessary components for the application
+ * to display the results returned from the iTunes API.
+ ***********************************************************/
 export default class Results extends PureComponent {
 	render() {
 		const { isFetching, resultCount, exact, similar } = this.props;
