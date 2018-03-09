@@ -1,0 +1,2015 @@
+{
+	"resultCount": 50,
+	"results": [
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 378423506,
+			"trackId": 378423583,
+			"artistName": "Eminem",
+			"collectionName": "Recovery (Deluxe Edition)",
+			"trackName": "Not Afraid",
+			"collectionCensoredName": "Recovery (Deluxe Edition)",
+			"trackCensoredName": "Not Afraid",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/not-afraid/378423506?i=378423583&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/not-afraid/378423506?i=378423583&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/d9/f9/ba/mzm.ohfuogtw.aac.p.m4a",
+			"artworkUrl30":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-04-29T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 19,
+			"trackNumber": 7,
+			"trackTimeMillis": 248092,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 111092,
+			"trackId": 111086,
+			"artistName": "Eminem",
+			"collectionName": "The Eminem Show",
+			"trackName": "'Till I Collapse",
+			"collectionCensoredName": "The Eminem Show",
+			"trackCensoredName": "'Till I Collapse",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/till-i-collapse/111092?i=111086&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/till-i-collapse/111092?i=111086&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/9b/fb/8d/9bfb8d9b-d912-46a5-d9ee-f739a4a355ef/mzaf_3172066141438059508.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/100x100bb.jpg",
+			"collectionPrice": 9.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2002-05-26T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 20,
+			"trackNumber": 18,
+			"trackTimeMillis": 297893,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 378423506,
+			"trackId": 378423786,
+			"artistName": "Eminem",
+			"collectionName": "Recovery (Deluxe Edition)",
+			"trackName": "Love the Way You Lie (feat. Rihanna)",
+			"collectionCensoredName": "Recovery (Deluxe Edition)",
+			"trackCensoredName": "Love the Way You Lie (feat. Rihanna)",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/love-the-way-you-lie-feat-rihanna/378423506?i=378423786&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/love-the-way-you-lie-feat-rihanna/378423506?i=378423786&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/91/04/87/mzm.rpuzqtfx.aac.p.m4a",
+			"artworkUrl30":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-06-18T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 19,
+			"trackNumber": 15,
+			"trackTimeMillis": 263340,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 362114,
+			"trackId": 362088,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP",
+			"trackName": "The Real Slim Shady",
+			"collectionCensoredName": "The Marshall Mathers LP",
+			"trackCensoredName": "The Real Slim Shady",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/the-real-slim-shady/362114?i=362088&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/the-real-slim-shady/362114?i=362088&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/3b/23/65/3b23657d-94ca-b5e8-1cd8-918acd3d291e/mzaf_370280540421678318.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/cf/a6/ba/cfa6ba42-2a9f-11e8-54a4-edd35eee5840/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/cf/a6/ba/cfa6ba42-2a9f-11e8-54a4-edd35eee5840/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/cf/a6/ba/cfa6ba42-2a9f-11e8-54a4-edd35eee5840/source/100x100bb.jpg",
+			"collectionPrice": 9.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2000-04-15T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 18,
+			"trackNumber": 8,
+			"trackTimeMillis": 284200,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 111092,
+			"trackId": 111070,
+			"artistName": "Eminem",
+			"collectionName": "The Eminem Show",
+			"trackName": "Without Me",
+			"collectionCensoredName": "The Eminem Show",
+			"trackCensoredName": "Without Me",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/without-me/111092?i=111070&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/without-me/111092?i=111070&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/c7/a7/21/c7a721ea-1b6b-41eb-10b8-9b4ffab13d91/mzaf_261896584321190544.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/100x100bb.jpg",
+			"collectionPrice": 9.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2002-05-14T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 20,
+			"trackNumber": 10,
+			"trackTimeMillis": 290227,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 731756766,
+			"trackId": 731756775,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackName": "Rap God",
+			"collectionCensoredName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackCensoredName": "Rap God",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/rap-god/731756766?i=731756775&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/rap-god/731756766?i=731756775&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/8a/1c/9f/8a1c9f0a-eefc-2043-bb1e-613d302a21f7/mzaf_6303311644808114319.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2013-10-15T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 21,
+			"trackNumber": 9,
+			"trackTimeMillis": 363521,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 731756766,
+			"trackId": 731756778,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackName": "The Monster (feat. Rihanna)",
+			"collectionCensoredName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackCensoredName": "The Monster (feat. Rihanna)",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/the-monster-feat-rihanna/731756766?i=731756778&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/the-monster-feat-rihanna/731756766?i=731756778&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/a5/61/6c/a5616c10-3e05-5045-28dd-6b67a8de2dbc/mzaf_4249322890913492595.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2013-10-29T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 21,
+			"trackNumber": 12,
+			"trackTimeMillis": 250189,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 99159510,
+			"trackId": 99159561,
+			"artistName": "Eminem",
+			"collectionName": "Curtain Call: The Hits (Deluxe Version)",
+			"trackName": "Lose Yourself",
+			"collectionCensoredName": "Curtain Call: The Hits (Deluxe Version)",
+			"trackCensoredName": "Lose Yourself",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/lose-yourself/99159510?i=99159561&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/lose-yourself/99159510?i=99159561&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/7c/00/9f/7c009f11-f161-5f49-b078-1aed290e769e/mzaf_1104969431088648607.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music1/v4/8a/0e/6b/8a0e6b78-e353-1728-2183-653bd2158efe/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music1/v4/8a/0e/6b/8a0e6b78-e353-1728-2183-653bd2158efe/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music1/v4/8a/0e/6b/8a0e6b78-e353-1728-2183-653bd2158efe/source/100x100bb.jpg",
+			"collectionPrice": 13.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2002-10-22T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 2,
+			"discNumber": 1,
+			"trackCount": 17,
+			"trackNumber": 6,
+			"trackTimeMillis": 326467,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 271256,
+			"collectionId": 332158764,
+			"trackId": 332159171,
+			"artistName": "Drake, Kanye West, Lil Wayne & Eminem",
+			"collectionName": "More Than a Game (Music Inspired By the Film)",
+			"trackName": "Forever",
+			"collectionCensoredName": "More Than a Game (Music Inspired By the Film)",
+			"trackCensoredName": "Forever",
+			"collectionArtistId": 36270,
+			"collectionArtistName": "Various Artists",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/drake/271256?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/forever/332158764?i=332159171&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/forever/332158764?i=332159171&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/fd/94/5b/mzm.cvsydnii.aac.p.m4a",
+			"artworkUrl30":
+				"http://is1.mzstatic.com/image/thumb/Music/v4/84/30/73/84307323-5736-3c2b-9349-309db28f93e4/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is1.mzstatic.com/image/thumb/Music/v4/84/30/73/84307323-5736-3c2b-9349-309db28f93e4/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is1.mzstatic.com/image/thumb/Music/v4/84/30/73/84307323-5736-3c2b-9349-309db28f93e4/source/100x100bb.jpg",
+			"collectionPrice": 4.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2009-08-27T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 11,
+			"trackNumber": 2,
+			"trackTimeMillis": 357292,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Soundtrack",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 28690630,
+			"trackId": 28690755,
+			"artistName": "Eminem",
+			"collectionName": "Encore (Deluxe Version)",
+			"trackName": "Mockingbird",
+			"collectionCensoredName": "Encore (Deluxe Version)",
+			"trackCensoredName": "Mockingbird",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/mockingbird/28690630?i=28690755&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/mockingbird/28690630?i=28690755&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music4/v4/3e/e1/dc/3ee1dc52-345f-1c68-4d81-5305a99210ec/mzaf_8436244259855947950.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music6/v4/de/16/64/de1664fd-7fd3-c84b-482f-6476674e41e0/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music6/v4/de/16/64/de1664fd-7fd3-c84b-482f-6476674e41e0/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music6/v4/de/16/64/de1664fd-7fd3-c84b-482f-6476674e41e0/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2004-11-12T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 2,
+			"discNumber": 1,
+			"trackCount": 20,
+			"trackNumber": 16,
+			"trackTimeMillis": 250760,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 99159510,
+			"trackId": 99159658,
+			"artistName": "Eminem",
+			"collectionName": "Curtain Call: The Hits (Deluxe Version)",
+			"trackName": "When I'm Gone",
+			"collectionCensoredName": "Curtain Call: The Hits (Deluxe Version)",
+			"trackCensoredName": "When I'm Gone",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/when-im-gone/99159510?i=99159658&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/when-im-gone/99159510?i=99159658&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/31/fe/3e/31fe3eb2-60e4-696f-e020-4970473d6517/mzaf_8873291169281584294.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music1/v4/8a/0e/6b/8a0e6b78-e353-1728-2183-653bd2158efe/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music1/v4/8a/0e/6b/8a0e6b78-e353-1728-2183-653bd2158efe/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music1/v4/8a/0e/6b/8a0e6b78-e353-1728-2183-653bd2158efe/source/100x100bb.jpg",
+			"collectionPrice": 13.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2005-12-06T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 2,
+			"discNumber": 1,
+			"trackCount": 17,
+			"trackNumber": 16,
+			"trackTimeMillis": 281133,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 99159510,
+			"trackId": 99159567,
+			"artistName": "Eminem",
+			"collectionName": "Curtain Call: The Hits (Deluxe Version)",
+			"trackName": "Shake That",
+			"collectionCensoredName": "Curtain Call: The Hits (Deluxe Version)",
+			"trackCensoredName": "Shake That",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/shake-that/99159510?i=99159567&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/shake-that/99159510?i=99159567&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music5/v4/b5/41/5c/b5415c66-eeb3-41b8-af5a-e79d2b4b8c66/mzaf_8681050194667828625.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music1/v4/8a/0e/6b/8a0e6b78-e353-1728-2183-653bd2158efe/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music1/v4/8a/0e/6b/8a0e6b78-e353-1728-2183-653bd2158efe/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music1/v4/8a/0e/6b/8a0e6b78-e353-1728-2183-653bd2158efe/source/100x100bb.jpg",
+			"collectionPrice": 13.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2005-12-06T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 2,
+			"discNumber": 1,
+			"trackCount": 17,
+			"trackNumber": 7,
+			"trackTimeMillis": 274440,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 111092,
+			"trackId": 111076,
+			"artistName": "Eminem",
+			"collectionName": "The Eminem Show",
+			"trackName": "Superman",
+			"collectionCensoredName": "The Eminem Show",
+			"trackCensoredName": "Superman",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/superman/111092?i=111076&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/superman/111092?i=111076&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/af/35/15/af35150b-9545-2616-7cbd-4566d8b6605d/mzaf_4586557377215350723.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/100x100bb.jpg",
+			"collectionPrice": 9.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2002-05-26T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 20,
+			"trackNumber": 13,
+			"trackTimeMillis": 350227,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 362114,
+			"trackId": 362077,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP",
+			"trackName": "Stan",
+			"collectionCensoredName": "The Marshall Mathers LP",
+			"trackCensoredName": "Stan",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/stan/362114?i=362077&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/stan/362114?i=362077&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music7/v4/a3/ce/67/a3ce67c5-f56f-02e8-94cc-d9da38e501d4/mzaf_3365739834618377923.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/cf/a6/ba/cfa6ba42-2a9f-11e8-54a4-edd35eee5840/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/cf/a6/ba/cfa6ba42-2a9f-11e8-54a4-edd35eee5840/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/cf/a6/ba/cfa6ba42-2a9f-11e8-54a4-edd35eee5840/source/100x100bb.jpg",
+			"collectionPrice": 9.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2000-05-23T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 18,
+			"trackNumber": 3,
+			"trackTimeMillis": 404107,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 378423506,
+			"trackId": 378423710,
+			"artistName": "Eminem",
+			"collectionName": "Recovery (Deluxe Edition)",
+			"trackName": "No Love (feat. Lil Wayne)",
+			"collectionCensoredName": "Recovery (Deluxe Edition)",
+			"trackCensoredName": "No Love (feat. Lil Wayne)",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/no-love-feat-lil-wayne/378423506?i=378423710&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/no-love-feat-lil-wayne/378423506?i=378423710&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/75/73/a8/mzm.dpsmpcgj.aac.p.m4a",
+			"artworkUrl30":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-06-18T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 19,
+			"trackNumber": 9,
+			"trackTimeMillis": 299476,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 378423506,
+			"trackId": 378423741,
+			"artistName": "Eminem",
+			"collectionName": "Recovery (Deluxe Edition)",
+			"trackName": "Space Bound",
+			"collectionCensoredName": "Recovery (Deluxe Edition)",
+			"trackCensoredName": "Space Bound",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/space-bound/378423506?i=378423741&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/space-bound/378423506?i=378423741&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/37/d6/13/mzm.wgdgvqzb.aac.p.m4a",
+			"artworkUrl30":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-06-18T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 19,
+			"trackNumber": 10,
+			"trackTimeMillis": 278548,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 112116,
+			"trackId": 112054,
+			"artistName": "Eminem",
+			"collectionName":
+				"8 Mile (Music from and Inspired By the Motion Picture)",
+			"trackName": "Lose Yourself",
+			"collectionCensoredName":
+				"8 Mile (Music from and Inspired By the Motion Picture)",
+			"trackCensoredName": "Lose Yourself",
+			"collectionArtistId": 4035426,
+			"collectionArtistName": "Various Artists",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/lose-yourself/112116?i=112054&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/lose-yourself/112116?i=112054&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/68/e8/3d/mzm.iejwjubj.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music/v4/d1/1f/3c/d11f3c95-0d30-fbba-0b89-26628fa655c6/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music/v4/d1/1f/3c/d11f3c95-0d30-fbba-0b89-26628fa655c6/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music/v4/d1/1f/3c/d11f3c95-0d30-fbba-0b89-26628fa655c6/source/100x100bb.jpg",
+			"collectionPrice": 5.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2002-10-29T08:00:00Z",
+			"collectionExplicitness": "cleaned",
+			"trackExplicitness": "cleaned",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 16,
+			"trackNumber": 1,
+			"trackTimeMillis": 320750,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Soundtrack",
+			"contentAdvisoryRating": "Clean",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 731756766,
+			"trackId": 731756774,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackName": "Berzerk",
+			"collectionCensoredName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackCensoredName": "Berzerk",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/berzerk/731756766?i=731756774&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/berzerk/731756766?i=731756774&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/65/c7/07/65c70723-c4b2-00c8-b04f-7e5bf8da4800/mzaf_5050554786467635208.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2013-08-27T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 21,
+			"trackNumber": 8,
+			"trackTimeMillis": 238746,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 378423506,
+			"trackId": 378423544,
+			"artistName": "Eminem Featuring P!nk",
+			"collectionName": "Recovery (Deluxe Edition)",
+			"trackName": "Won't Back Down (feat. P!nk)",
+			"collectionCensoredName": "Recovery (Deluxe Edition)",
+			"trackCensoredName": "Won't Back Down (feat. P!nk)",
+			"collectionArtistName": "Eminem",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/wont-back-down-feat-p-nk/378423506?i=378423544&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/wont-back-down-feat-p-nk/378423506?i=378423544&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/eb/16/fd/mzm.ykhwvrjr.aac.p.m4a",
+			"artworkUrl30":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-06-18T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 19,
+			"trackNumber": 4,
+			"trackTimeMillis": 265898,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 111092,
+			"trackId": 111058,
+			"artistName": "Eminem",
+			"collectionName": "The Eminem Show",
+			"trackName": "Cleanin' Out My Closet",
+			"collectionCensoredName": "The Eminem Show",
+			"trackCensoredName": "Cleanin' Out My Closet",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/cleanin-out-my-closet/111092?i=111058&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/cleanin-out-my-closet/111092?i=111058&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/20/66/a8/2066a89a-769d-b1d7-3456-b0998cff9052/mzaf_54819454152852171.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/100x100bb.jpg",
+			"collectionPrice": 9.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2002-05-26T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 20,
+			"trackNumber": 4,
+			"trackTimeMillis": 297933,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 378423506,
+			"trackId": 378423746,
+			"artistName": "Eminem",
+			"collectionName": "Recovery (Deluxe Edition)",
+			"trackName": "Cinderella Man",
+			"collectionCensoredName": "Recovery (Deluxe Edition)",
+			"trackCensoredName": "Cinderella Man",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/cinderella-man/378423506?i=378423746&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/cinderella-man/378423506?i=378423746&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/4f/82/d6/mzm.daapyuig.aac.p.m4a",
+			"artworkUrl30":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-06-18T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 19,
+			"trackNumber": 11,
+			"trackTimeMillis": 278923,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 28690630,
+			"trackId": 28690667,
+			"artistName": "Eminem",
+			"collectionName": "Encore (Deluxe Version)",
+			"trackName": "Like Toy Soldiers",
+			"collectionCensoredName": "Encore (Deluxe Version)",
+			"trackCensoredName": "Like Toy Soldiers",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/like-toy-soldiers/28690630?i=28690667&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/like-toy-soldiers/28690630?i=28690667&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/9d/26/b3/9d26b3ce-5c27-e141-3665-84b60a5752b9/mzaf_2211202103171692667.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music6/v4/de/16/64/de1664fd-7fd3-c84b-482f-6476674e41e0/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music6/v4/de/16/64/de1664fd-7fd3-c84b-482f-6476674e41e0/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music6/v4/de/16/64/de1664fd-7fd3-c84b-482f-6476674e41e0/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2004-11-12T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 2,
+			"discNumber": 1,
+			"trackCount": 20,
+			"trackNumber": 5,
+			"trackTimeMillis": 296880,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 731756766,
+			"trackId": 731756771,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackName": "Survival",
+			"collectionCensoredName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackCensoredName": "Survival",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/survival/731756766?i=731756771&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/survival/731756766?i=731756771&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/9c/e4/b5/9ce4b57c-d5f8-c0a6-8414-f0d7aee2a2fe/mzaf_2497860071448240973.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2013-10-08T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 21,
+			"trackNumber": 5,
+			"trackTimeMillis": 272417,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 111092,
+			"trackId": 111074,
+			"artistName": "Eminem",
+			"collectionName": "The Eminem Show",
+			"trackName": "Sing for the Moment",
+			"collectionCensoredName": "The Eminem Show",
+			"trackCensoredName": "Sing for the Moment",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/sing-for-the-moment/111092?i=111074&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/sing-for-the-moment/111092?i=111074&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/5f/b5/b9/5fb5b939-7c01-69f9-1f57-f75540255477/mzaf_857355526904320284.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/100x100bb.jpg",
+			"collectionPrice": 9.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2002-05-26T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 20,
+			"trackNumber": 12,
+			"trackTimeMillis": 339667,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 99159510,
+			"trackId": 99159548,
+			"artistName": "Eminem",
+			"collectionName": "Curtain Call: The Hits (Deluxe Version)",
+			"trackName": "My Name Is",
+			"collectionCensoredName": "Curtain Call: The Hits (Deluxe Version)",
+			"trackCensoredName": "My Name Is",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/my-name-is/99159510?i=99159548&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/my-name-is/99159510?i=99159548&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/07/ec/52/07ec5287-845e-e75e-47c2-772754c26c74/mzaf_4647686063204071183.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music1/v4/8a/0e/6b/8a0e6b78-e353-1728-2183-653bd2158efe/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music1/v4/8a/0e/6b/8a0e6b78-e353-1728-2183-653bd2158efe/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music1/v4/8a/0e/6b/8a0e6b78-e353-1728-2183-653bd2158efe/source/100x100bb.jpg",
+			"collectionPrice": 13.99,
+			"trackPrice": 1.29,
+			"releaseDate": "1999-01-25T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 2,
+			"discNumber": 1,
+			"trackCount": 17,
+			"trackNumber": 4,
+			"trackTimeMillis": 268853,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 731756766,
+			"trackId": 731756781,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackName": "Headlights (feat. Nate Ruess)",
+			"collectionCensoredName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackCensoredName": "Headlights (feat. Nate Ruess)",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/headlights-feat-nate-ruess/731756766?i=731756781&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/headlights-feat-nate-ruess/731756766?i=731756781&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/19/38/56/19385619-8a4e-b6fe-3a5b-5d163daddef8/mzaf_4762499822788672206.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2013-11-05T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 21,
+			"trackNumber": 15,
+			"trackTimeMillis": 343032,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 316025393,
+			"trackId": 316025816,
+			"artistName": "Eminem",
+			"collectionName": "Relapse (Deluxe Version)",
+			"trackName": "Crack a Bottle",
+			"collectionCensoredName": "Relapse (Deluxe Version)",
+			"trackCensoredName": "Crack a Bottle (feat. Dr. Dre)",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/crack-a-bottle-feat-dr-dre/316025393?i=316025816&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/crack-a-bottle-feat-dr-dre/316025393?i=316025816&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/eb/d0/c8/ebd0c842-21de-9e73-b8ff-05ffd0f7ddd7/mzaf_4660531275162816270.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is3.mzstatic.com/image/thumb/Music6/v4/4b/af/6c/4baf6c34-c6fa-2a7c-458e-a82af50a26a1/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is3.mzstatic.com/image/thumb/Music6/v4/4b/af/6c/4baf6c34-c6fa-2a7c-458e-a82af50a26a1/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is3.mzstatic.com/image/thumb/Music6/v4/4b/af/6c/4baf6c34-c6fa-2a7c-458e-a82af50a26a1/source/100x100bb.jpg",
+			"collectionPrice": 12.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2009-02-02T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 24,
+			"trackNumber": 22,
+			"trackTimeMillis": 315147,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 362114,
+			"trackId": 362086,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP",
+			"trackName": "The Way I Am",
+			"collectionCensoredName": "The Marshall Mathers LP",
+			"trackCensoredName": "The Way I Am",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/the-way-i-am/362114?i=362086&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/the-way-i-am/362114?i=362086&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music1/v4/36/a9/ce/36a9ce57-8412-cded-190d-536518d2e8ae/mzaf_8751212524615276877.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/cf/a6/ba/cfa6ba42-2a9f-11e8-54a4-edd35eee5840/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/cf/a6/ba/cfa6ba42-2a9f-11e8-54a4-edd35eee5840/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/cf/a6/ba/cfa6ba42-2a9f-11e8-54a4-edd35eee5840/source/100x100bb.jpg",
+			"collectionPrice": 9.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2000-05-23T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 18,
+			"trackNumber": 7,
+			"trackTimeMillis": 290427,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 278464538,
+			"collectionId": 403927867,
+			"trackId": 403927871,
+			"artistName": "Nicki Minaj & Eminem",
+			"collectionName": "Pink Friday (Deluxe Version)",
+			"trackName": "Roman's Revenge (feat. Eminem)",
+			"collectionCensoredName": "Pink Friday (Deluxe Version)",
+			"trackCensoredName": "Roman's Revenge (feat. Eminem)",
+			"collectionArtistName": "Nicki Minaj",
+			"artistViewUrl":
+				"https://itunes.apple.com/us/artist/nicki-minaj/278464538?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/romans-revenge-feat-eminem/403927867?i=403927871&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/romans-revenge-feat-eminem/403927867?i=403927871&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music3/v4/ec/8c/f7/ec8cf7d0-486d-6c7f-9cca-203c33e0c4fe/mzaf_5207372444303299373.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Music3/v4/49/61/c3/4961c3ce-c5bd-4c60-d8cf-adc5f41669d0/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Music3/v4/49/61/c3/4961c3ce-c5bd-4c60-d8cf-adc5f41669d0/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Music3/v4/49/61/c3/4961c3ce-c5bd-4c60-d8cf-adc5f41669d0/source/100x100bb.jpg",
+			"collectionPrice": 9.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-11-22T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 17,
+			"trackNumber": 2,
+			"trackTimeMillis": 276173,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 345757353,
+			"trackId": 345758061,
+			"artistName": "Eminem",
+			"collectionName": "Relapse: Refill",
+			"trackName": "Beautiful",
+			"collectionCensoredName": "Relapse: Refill",
+			"trackCensoredName": "Beautiful",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/beautiful/345757353?i=345758061&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/beautiful/345757353?i=345758061&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/21/53/ff/mzm.dpqteloo.aac.p.m4a",
+			"artworkUrl30":
+				"http://is1.mzstatic.com/image/thumb/Music69/v4/dd/1b/a7/dd1ba7b0-66c6-abb5-ffc7-0f3849c5e576/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is1.mzstatic.com/image/thumb/Music69/v4/dd/1b/a7/dd1ba7b0-66c6-abb5-ffc7-0f3849c5e576/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is1.mzstatic.com/image/thumb/Music69/v4/dd/1b/a7/dd1ba7b0-66c6-abb5-ffc7-0f3849c5e576/source/100x100bb.jpg",
+			"collectionPrice": 14.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2009-05-18T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 2,
+			"discNumber": 1,
+			"trackCount": 20,
+			"trackNumber": 17,
+			"trackTimeMillis": 392772,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 378423506,
+			"trackId": 378423776,
+			"artistName": "Eminem",
+			"collectionName": "Recovery (Deluxe Edition)",
+			"trackName": "25 to Life",
+			"collectionCensoredName": "Recovery (Deluxe Edition)",
+			"trackCensoredName": "25 to Life",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/25-to-life/378423506?i=378423776&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/25-to-life/378423506?i=378423776&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/1f/04/f6/mzm.qveytmsp.aac.p.m4a",
+			"artworkUrl30":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-06-18T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 19,
+			"trackNumber": 12,
+			"trackTimeMillis": 241500,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 28690630,
+			"trackId": 28690733,
+			"artistName": "Eminem",
+			"collectionName": "Encore (Deluxe Version)",
+			"trackName": "Ass Like That",
+			"collectionCensoredName": "Encore (Deluxe Version)",
+			"trackCensoredName": "Ass Like That",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/ass-like-that/28690630?i=28690733&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/ass-like-that/28690630?i=28690733&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music2/v4/dd/cb/6a/ddcb6a0d-a472-ab6f-22dc-f3b88366bec4/mzaf_921492091159422853.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music6/v4/de/16/64/de1664fd-7fd3-c84b-482f-6476674e41e0/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music6/v4/de/16/64/de1664fd-7fd3-c84b-482f-6476674e41e0/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music6/v4/de/16/64/de1664fd-7fd3-c84b-482f-6476674e41e0/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2004-11-12T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 2,
+			"discNumber": 1,
+			"trackCount": 20,
+			"trackNumber": 14,
+			"trackTimeMillis": 265480,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 731756766,
+			"trackId": 731756787,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackName": "Beautiful Pain (feat. Sia)",
+			"collectionCensoredName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackCensoredName": "Beautiful Pain (feat. Sia)",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/beautiful-pain-feat-sia/731756766?i=731756787&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/beautiful-pain-feat-sia/731756766?i=731756787&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/ce/3e/29/ce3e29e8-115a-94fe-7289-2ba381de58dc/mzaf_7464788672128561520.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2013-11-05T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 21,
+			"trackNumber": 20,
+			"trackTimeMillis": 265037,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 731756766,
+			"trackId": 731756767,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackName": "Bad Guy",
+			"collectionCensoredName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackCensoredName": "Bad Guy",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/bad-guy/731756766?i=731756767&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/bad-guy/731756766?i=731756767&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/0c/d9/4e/0cd94e84-6651-6594-1450-ce4d2f17a1d6/mzaf_4120266336436312305.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2013-11-05T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 21,
+			"trackNumber": 1,
+			"trackTimeMillis": 434077,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "music-video",
+			"artistId": 111051,
+			"collectionId": 378423506,
+			"trackId": 378423855,
+			"artistName": "Eminem",
+			"collectionName": "Recovery (Deluxe Edition)",
+			"trackName": "Not Afraid",
+			"collectionCensoredName": "Recovery (Deluxe Edition)",
+			"trackCensoredName": "Not Afraid",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/music-video/not-afraid/378423855?uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/music-video/not-afraid/378423855?uo=4",
+			"previewUrl":
+				"http://video.itunes.apple.com/apple-assets-us-std-000001/Video2/v4/bb/1d/3d/bb1d3d2f-2ca9-fce1-4ef3-d3a810ed97eb/mzvf_8058364308748102088.640x348.h264lc.U.p.m4v",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Video/v4/ae/d5/8f/aed58f32-2369-973f-b211-a1c03a5c089d/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Video/v4/ae/d5/8f/aed58f32-2369-973f-b211-a1c03a5c089d/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Video/v4/ae/d5/8f/aed58f32-2369-973f-b211-a1c03a5c089d/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.99,
+			"releaseDate": "2010-01-01T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 20,
+			"trackNumber": 20,
+			"trackTimeMillis": 252043,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit"
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 378423506,
+			"trackId": 378423565,
+			"artistName": "Eminem",
+			"collectionName": "Recovery (Deluxe Edition)",
+			"trackName": "Going Through Changes",
+			"collectionCensoredName": "Recovery (Deluxe Edition)",
+			"trackCensoredName": "Going Through Changes",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/going-through-changes/378423506?i=378423565&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/going-through-changes/378423506?i=378423565&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/64/58/9c/mzm.dybmbfyd.aac.p.m4a",
+			"artworkUrl30":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-06-18T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 19,
+			"trackNumber": 6,
+			"trackTimeMillis": 298807,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 378423506,
+			"trackId": 378423523,
+			"artistName": "Eminem",
+			"collectionName": "Recovery (Deluxe Edition)",
+			"trackName": "Talkin' 2 Myself (feat. Kobe)",
+			"collectionCensoredName": "Recovery (Deluxe Edition)",
+			"trackCensoredName": "Talkin' 2 Myself (feat. Kobe)",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/talkin-2-myself-feat-kobe/378423506?i=378423523&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/talkin-2-myself-feat-kobe/378423506?i=378423523&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/59/2c/b0/mzm.imphpuhm.aac.p.m4a",
+			"artworkUrl30":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-06-18T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 19,
+			"trackNumber": 2,
+			"trackTimeMillis": 300387,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 378423506,
+			"trackId": 378423518,
+			"artistName": "Eminem",
+			"collectionName": "Recovery (Deluxe Edition)",
+			"trackName": "Cold Wind Blows",
+			"collectionCensoredName": "Recovery (Deluxe Edition)",
+			"trackCensoredName": "Cold Wind Blows",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/cold-wind-blows/378423506?i=378423518&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/cold-wind-blows/378423506?i=378423518&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/fe/0d/85/mzm.hnvtmupv.aac.p.m4a",
+			"artworkUrl30":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-06-18T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 19,
+			"trackNumber": 1,
+			"trackTimeMillis": 303657,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 206535856,
+			"trackId": 206535906,
+			"artistName": "Eminem, 50 Cent, Cashis & Lloyd Banks",
+			"collectionName": "Eminem Presents the Re-Up (Bonus Track Version)",
+			"trackName": "You Don't Know",
+			"collectionCensoredName":
+				"Eminem Presents the Re-Up (Bonus Track Version)",
+			"trackCensoredName": "You Don't Know",
+			"collectionArtistName": "Eminem",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/you-dont-know/206535856?i=206535906&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/you-dont-know/206535856?i=206535906&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/46/db/7a/mzm.fqbferwi.aac.p.m4a",
+			"artworkUrl30":
+				"http://is1.mzstatic.com/image/thumb/Music69/v4/de/ff/da/deffdac2-002a-f645-6708-64d15091e1f0/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is1.mzstatic.com/image/thumb/Music69/v4/de/ff/da/deffdac2-002a-f645-6708-64d15091e1f0/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is1.mzstatic.com/image/thumb/Music69/v4/de/ff/da/deffdac2-002a-f645-6708-64d15091e1f0/source/100x100bb.jpg",
+			"collectionPrice": 9.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2006-11-07T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 23,
+			"trackNumber": 7,
+			"trackTimeMillis": 257907,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 378423506,
+			"trackId": 378423548,
+			"artistName": "Eminem",
+			"collectionName": "Recovery (Deluxe Edition)",
+			"trackName": "W.T.P.",
+			"collectionCensoredName": "Recovery (Deluxe Edition)",
+			"trackCensoredName": "W.T.P.",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/w-t-p/378423506?i=378423548&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/w-t-p/378423506?i=378423548&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/e6/6b/80/mzm.xfeaenwy.aac.p.m4a",
+			"artworkUrl30":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-06-18T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 19,
+			"trackNumber": 5,
+			"trackTimeMillis": 238110,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 731756766,
+			"trackId": 731756780,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackName": "Love Game (feat. Kendrick Lamar)",
+			"collectionCensoredName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackCensoredName": "Love Game (feat. Kendrick Lamar)",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/love-game-feat-kendrick-lamar/731756766?i=731756780&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/love-game-feat-kendrick-lamar/731756766?i=731756780&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/99/a0/2d/99a02de3-1f6c-d603-f687-b725e2b6630a/mzaf_8510800810914151604.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2013-11-05T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 21,
+			"trackNumber": 14,
+			"trackTimeMillis": 296953,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 731756766,
+			"trackId": 731756770,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackName": "So Much Better",
+			"collectionCensoredName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackCensoredName": "So Much Better",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/so-much-better/731756766?i=731756770&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/so-much-better/731756766?i=731756770&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/6e/92/d6/6e92d642-b9f0-8661-629c-bab35dcd879f/mzaf_8636205541563848068.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2013-11-05T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 21,
+			"trackNumber": 4,
+			"trackTimeMillis": 261387,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 378423506,
+			"trackId": 378423778,
+			"artistName": "Eminem",
+			"collectionName": "Recovery (Deluxe Edition)",
+			"trackName": "So Bad",
+			"collectionCensoredName": "Recovery (Deluxe Edition)",
+			"trackCensoredName": "So Bad",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/so-bad/378423506?i=378423778&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/so-bad/378423506?i=378423778&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/c9/35/f1/mzm.zelrtnau.aac.p.m4a",
+			"artworkUrl30":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is2.mzstatic.com/image/thumb/Music/v4/e1/48/37/e148379b-30a2-6d4f-a7a9-da5ae15b2b0a/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-06-18T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 19,
+			"trackNumber": 13,
+			"trackTimeMillis": 325335,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 111092,
+			"trackId": 111054,
+			"artistName": "Eminem",
+			"collectionName": "The Eminem Show",
+			"trackName": "White America",
+			"collectionCensoredName": "The Eminem Show",
+			"trackCensoredName": "White America",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/white-america/111092?i=111054&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/white-america/111092?i=111054&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/v4/39/28/be/3928be46-9a66-496e-fe75-e5e615ddff93/mzaf_5133049367954070993.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music69/v4/1c/ed/48/1ced4832-48e4-a03a-29ff-1b214d2b9d14/source/100x100bb.jpg",
+			"collectionPrice": 9.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2002-05-26T07:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 20,
+			"trackNumber": 2,
+			"trackTimeMillis": 324569,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 377562262,
+			"trackId": 377563734,
+			"artistName": "Eminem",
+			"collectionName": "Recovery",
+			"trackName": "Not Afraid",
+			"collectionCensoredName": "Recovery",
+			"trackCensoredName": "Not Afraid",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/not-afraid/377562262?i=377563734&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/not-afraid/377562262?i=377563734&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/7d/bf/9f/mzm.fjlhsxrj.aac.p.m4a",
+			"artworkUrl30":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/1b/ba/9f/1bba9f6b-ac28-cd51-8d1a-7a8a2462c03f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/1b/ba/9f/1bba9f6b-ac28-cd51-8d1a-7a8a2462c03f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/1b/ba/9f/1bba9f6b-ac28-cd51-8d1a-7a8a2462c03f/source/100x100bb.jpg",
+			"collectionPrice": 9.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-04-29T07:00:00Z",
+			"collectionExplicitness": "cleaned",
+			"trackExplicitness": "cleaned",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 17,
+			"trackNumber": 7,
+			"trackTimeMillis": 248092,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Clean",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 731756766,
+			"trackId": 731756782,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackName": "Evil Twin",
+			"collectionCensoredName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackCensoredName": "Evil Twin",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/evil-twin/731756766?i=731756782&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/evil-twin/731756766?i=731756782&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/20/88/0f/20880f03-57fa-6d3e-b255-25b8c5924b91/mzaf_4584981746302124357.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2013-11-05T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 21,
+			"trackNumber": 16,
+			"trackTimeMillis": 356850,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 731756766,
+			"trackId": 731756772,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackName": "Legacy",
+			"collectionCensoredName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackCensoredName": "Legacy",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/legacy/731756766?i=731756772&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/legacy/731756766?i=731756772&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/2c/be/36/2cbe363a-8ff3-7320-6d54-0c02d2c484de/mzaf_2405819181302946080.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2013-11-05T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 21,
+			"trackNumber": 6,
+			"trackTimeMillis": 296269,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 731756766,
+			"trackId": 731756779,
+			"artistName": "Eminem",
+			"collectionName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackName": "So Far...",
+			"collectionCensoredName": "The Marshall Mathers LP2 (Deluxe)",
+			"trackCensoredName": "So Far...",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/so-far/731756766?i=731756779&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/so-far/731756766?i=731756779&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview71/v4/4f/04/4e/4f044ee3-3720-660c-9655-a3412d7333c6/mzaf_3217869273609867874.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is5.mzstatic.com/image/thumb/Music4/v4/bf/1e/0b/bf1e0b91-ed8b-afb5-8155-613c330bea1f/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2013-11-05T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 21,
+			"trackNumber": 13,
+			"trackTimeMillis": 317581,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 377562262,
+			"trackId": 377564702,
+			"artistName": "Eminem",
+			"collectionName": "Recovery",
+			"trackName": "Love the Way You Lie (feat. Rihanna)",
+			"collectionCensoredName": "Recovery",
+			"trackCensoredName": "Love the Way You Lie (feat. Rihanna)",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/love-the-way-you-lie-feat-rihanna/377562262?i=377564702&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/love-the-way-you-lie-feat-rihanna/377562262?i=377564702&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/Music/c1/9f/74/mzm.velnxlyy.aac.p.m4a",
+			"artworkUrl30":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/1b/ba/9f/1bba9f6b-ac28-cd51-8d1a-7a8a2462c03f/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/1b/ba/9f/1bba9f6b-ac28-cd51-8d1a-7a8a2462c03f/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is3.mzstatic.com/image/thumb/Music/v4/1b/ba/9f/1bba9f6b-ac28-cd51-8d1a-7a8a2462c03f/source/100x100bb.jpg",
+			"collectionPrice": 9.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2010-06-21T07:00:00Z",
+			"collectionExplicitness": "cleaned",
+			"trackExplicitness": "cleaned",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 17,
+			"trackNumber": 15,
+			"trackTimeMillis": 263340,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Clean",
+			"isStreamable": true
+		},
+		{
+			"wrapperType": "track",
+			"kind": "song",
+			"artistId": 111051,
+			"collectionId": 1321744921,
+			"trackId": 1321745103,
+			"artistName": "Eminem",
+			"collectionName": "Revival",
+			"trackName": "River (feat. Ed Sheeran)",
+			"collectionCensoredName": "Revival",
+			"trackCensoredName": "River (feat. Ed Sheeran)",
+			"artistViewUrl": "https://itunes.apple.com/us/artist/eminem/111051?uo=4",
+			"collectionViewUrl":
+				"https://itunes.apple.com/us/album/river-feat-ed-sheeran/1321744921?i=1321745103&uo=4",
+			"trackViewUrl":
+				"https://itunes.apple.com/us/album/river-feat-ed-sheeran/1321744921?i=1321745103&uo=4",
+			"previewUrl":
+				"https://audio-ssl.itunes.apple.com/apple-assets-us-std-000001/AudioPreview118/v4/f3/50/87/f35087da-a278-10bc-97cc-7a021774494d/mzaf_8784976343371213.plus.aac.p.m4a",
+			"artworkUrl30":
+				"http://is4.mzstatic.com/image/thumb/Music118/v4/c6/86/a5/c686a555-6ee2-58e6-4a03-54c347d9d16e/source/30x30bb.jpg",
+			"artworkUrl60":
+				"http://is4.mzstatic.com/image/thumb/Music118/v4/c6/86/a5/c686a555-6ee2-58e6-4a03-54c347d9d16e/source/60x60bb.jpg",
+			"artworkUrl100":
+				"http://is4.mzstatic.com/image/thumb/Music118/v4/c6/86/a5/c686a555-6ee2-58e6-4a03-54c347d9d16e/source/100x100bb.jpg",
+			"collectionPrice": 11.99,
+			"trackPrice": 1.29,
+			"releaseDate": "2017-12-15T08:00:00Z",
+			"collectionExplicitness": "explicit",
+			"trackExplicitness": "explicit",
+			"discCount": 1,
+			"discNumber": 1,
+			"trackCount": 19,
+			"trackNumber": 5,
+			"trackTimeMillis": 221013,
+			"country": "USA",
+			"currency": "USD",
+			"primaryGenreName": "Hip-Hop/Rap",
+			"contentAdvisoryRating": "Explicit",
+			"isStreamable": true
+		}
+	]
+}
